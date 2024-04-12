@@ -1,0 +1,5 @@
+﻿  NFA-to-Regular-Expression-Converter.cpp
+  NFA.cpp
+  Generating Code...
+C:\Users\Ioana\source\repos\NFA\NFA-to-Regular-Expression-Converter\NFA.cpp(183,1): warning C4715: 'NFA::getRandomState': not all control paths return a value
+  NFA-to-Regular-Expression-Converter.vcxproj -> C:\Users\Ioana\source\repos\NFA\x64\Debug\NFA-to-Regular-Expression-Converter.exe
